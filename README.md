@@ -8,13 +8,14 @@ Binaries contain no credentials. Device identity, Wi-Fi and Adafruit IO credenti
 
 | Version | File | Size | SHA-256 |
 |---|---|---|---|
+| 6 | WaterPressureAIO-v6.bin | 1,213,600 bytes | 20fc7a1fd91fb5d66be22deddb9506738ed1de4e6ad7c30a47221136a4f9f600 |
 | 5 | WaterPressureAIO-v5.bin | 1,190,240 bytes | 285d362e6c44f46b57bb837d6028b8898c7272d9ea8153bb40c68cf720e1444b |
 | 4 | WaterPressureAIO-v4.bin | 1,190,032 bytes | 6bb4c3693c1eccd53bee4b1cd1ff71f25c0e725632e725f0a1020766253faf64 |
 | 3 | WaterPressureAIO-v3.bin | 1,181,040 bytes | d0c3b8ceccac0a5e19e107077324820ae86af03c86ea278195ca85e5967ac8ab |
 | 2 | WaterPressureAIO-v2.bin | 1,180,512 bytes | bd3b4b8f15f4ac9459e07b97268e9cd1df77f459b334f8059f9b3fc300cdcd07 |
 
 Download URL used by the devices:
-https://raw.githubusercontent.com/WRA-Architects/water-pressure-firmware/main/WaterPressureAIO-v5.bin  (older versions are kept beside it for rollback)
+https://raw.githubusercontent.com/WRA-Architects/water-pressure-firmware/main/WaterPressureAIO-v6.bin  (older versions are kept beside it for rollback)
 
 ## How updates work
 
